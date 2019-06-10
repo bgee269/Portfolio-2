@@ -12,6 +12,7 @@
     header { 
     position: static;
     
+    
     }
 
 
@@ -41,6 +42,7 @@
         color: antiquewhite;
         
     }
+    
     
     @media screen and (max-width: 980px){
         #container{
